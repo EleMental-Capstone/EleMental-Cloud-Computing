@@ -25,7 +25,6 @@ The cloud technology that used in this project:
 
 -   **Google Cloud Platform**: Suite of cloud computing services provided by Google.
 -   **Firestore**: for the application database.
--   **App Engine**: For deploying Backend API.
 -   **Cloud Storage**: For storing the assets.
 -   **Cloud Run**: For deploying machine learning model.
 
@@ -49,23 +48,6 @@ Storage         : 10 GB
 
 Docs: [firestore-docs](https://cloud.google.com/firestore/docs)
 
-### App Engine
-
-<img src="https://symbols.getvecta.com/stencil_4/8_google-app-engine.c22bd3c7a9.svg" width="100" height="50"/>
-
-This app service **`has been deployed`**. on development environment.
-
-Service details:
-
-```YAML
-Location          : asia-southeast2
-Instance Type     : F1
-Persintence disk  : 10
-Runtime           : nodejs18
-```
-
-Docs:
-[app-engine-docs](https://cloud.google.com/appengine/docs/standard/nodejs/runtime)
 
 ### Cloud Storage
 
