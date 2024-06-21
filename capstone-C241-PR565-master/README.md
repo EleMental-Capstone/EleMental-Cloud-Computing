@@ -1,13 +1,5 @@
 # EleMental - Cloud Computing
 
-## Base URL
-
-EleMental API Documentation (Bangkit Product Based Capstone Project - C241-PR565)
-
-```sh
-https://capstone-project-387215.et.r.appspot.com/api-doc     
-```
-
 ## Cloud Technology
 
 _The cloud technology used in EleMental_
@@ -36,7 +28,7 @@ There are four applications of Google Cloud technologies in the **Fruitarians** 
 
 <img src="https://cdn.cdnlogo.com/logos/f/45/firestore.svg" width="120" height="100"/>
 
-This firestore service **`has been deployed`** on development environment.
+This firestore service **`to be deployed`** on development environment.
 
 Service details:
 
