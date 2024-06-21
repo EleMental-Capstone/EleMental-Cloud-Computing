@@ -24,7 +24,7 @@ Google Cloud Platform (GCP) is a Google-provided set of cloud computing services
 The cloud technology that used in this project:
 
 -   **Google Cloud Platform**: Suite of cloud computing services provided by Google.
--   **Firestore**: for the application database.
+-   **Firestore**: for the application database
 -   **Cloud Storage**: For storing the assets.
 -   **Cloud Run**: For deploying machine learning model.
 
